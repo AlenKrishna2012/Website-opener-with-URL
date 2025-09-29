@@ -1,2 +1,3 @@
-# Website-opener-with-URL
-Open any website with URL
+# URL opener with python
+
+Open any website with URL usingsese
